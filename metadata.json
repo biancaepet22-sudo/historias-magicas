@@ -1,0 +1,6 @@
+{
+  "name": "Crónicas del Multiverso: Elige Tu Propia Aventura",
+  "description": "Juego interactivo de ficción ramificada en tiempo real con géneros Noir, Cyberpunk y Fantasía Oscura impulsado por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
